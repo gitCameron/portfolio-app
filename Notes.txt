@@ -1,0 +1,10 @@
+React-Router: Server vs Client 
+
+* Server-side routing: when user requests a page or clicks a link in the navigation bar of the web page, the browser will go and request the page from the server.
+The server will then return the HTML to be rendered in the browser.
+
+* Client-side routing: user makes a request for the web application, the client then watches for URL changes and runs javascript code.  When user does something, it
+finds matching component and renders it with javascript function call.
+
+
+
